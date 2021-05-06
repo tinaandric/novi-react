@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tinaandric/novi-react/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/tinaandric/novi-react/static/js/main.b2032996.chunk.js",
+    "main.js.map": "/tinaandric/novi-react/static/js/main.b2032996.chunk.js.map",
+    "runtime-main.js": "/tinaandric/novi-react/static/js/runtime-main.59cc4c11.js",
+    "runtime-main.js.map": "/tinaandric/novi-react/static/js/runtime-main.59cc4c11.js.map",
+    "static/js/2.97e0b442.chunk.js": "/tinaandric/novi-react/static/js/2.97e0b442.chunk.js",
+    "static/js/2.97e0b442.chunk.js.map": "/tinaandric/novi-react/static/js/2.97e0b442.chunk.js.map",
+    "static/js/3.4e4eaff5.chunk.js": "/tinaandric/novi-react/static/js/3.4e4eaff5.chunk.js",
+    "static/js/3.4e4eaff5.chunk.js.map": "/tinaandric/novi-react/static/js/3.4e4eaff5.chunk.js.map",
+    "index.html": "/tinaandric/novi-react/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/tinaandric/novi-react/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.97e0b442.chunk.js.LICENSE.txt": "/tinaandric/novi-react/static/js/2.97e0b442.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/tinaandric/novi-react/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59cc4c11.js",
+    "static/js/2.97e0b442.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.b2032996.chunk.js"
+  ]
+}
